@@ -20,7 +20,7 @@
 
 1. Clone the repository:
 ```
-git clone https://github.com/douglascybersec/MyTodos.git
+git clone https://github.com/therootdir/MyTodos.git
 
 ```
 
